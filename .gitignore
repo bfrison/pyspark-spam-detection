@@ -1,0 +1,7 @@
+var/
+__pycache__/
+.env
+*.swp
+models/
+results/*.csv
+results/*.png
