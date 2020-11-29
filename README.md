@@ -4,7 +4,7 @@
  - To activate environment, execute:  
    `conda activate spam-detection`
  - To fit model, execute:  
-   `spark-submit pyspark_model.py'
+   `spark-submit pyspark_model.py`
  - Make a copy of `.env\_sample` called `.env` and fill in your Twilio SID and token
  - To retrieve your Twilio messages as a spark DataFrame and classify them as ham or spam, first execute:  
    `pyspark`  
